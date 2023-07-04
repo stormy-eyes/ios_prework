@@ -17,10 +17,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/fD7Wt9l.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,13 +38,14 @@ GIF created with ...
    Shared location feature
 3. LinkedIn
    Access to recruiters and job postings
-   Learning sections
+   
    
 
 ## Notes
-An Application that helps Africans find remote jobs all across the world by providing user tailored job postings and helping users upskill when necessary.
+An Application that helps Africans find remote jobs all across the world by providing user tailored job postings and helping users upskill when necessary. It would feature a Resume builder section and would also provide learning and networking opportunities.
 
 Describe any challenges encountered while building the app.
+The main challenge encountered while building the app was understanding Xcode and creating the connection between the UI and Logic.
 
 ## License
 
