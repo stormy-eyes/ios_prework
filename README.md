@@ -12,12 +12,7 @@ The following **required** functionality is completed:
 
 - [Yes ] Users are see a screen with three labels and a button
 - [Yes ] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/fD7Wt9l.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
